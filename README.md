@@ -34,6 +34,16 @@ A collection of projects I first took on and experimented with when I began lear
 
 These projects are both experimented on (as in copied from [Aurélien Geron](https://github.com/ageron/handson-ml2)'s AI Hands-On ML Jupyter Notebook series (the exercises in the chapters), and created from scratch by me. Some other(s) —like the "Style Transfer Playground"— were tutorials available on [TensorFlow's website](https://www.tensorflow.org/tutorials/generative/style_transfer). The ones experimented on, my motivation was to understand what the code was doing and why it worked in the structure it is designed in. The from-scratch projects are aimed at solidifying my understanding in Machine Learning and various topics of ML, namely classification. 
 
+## Notice for Usage
+
+These projects aren't designed to be replicated (as most of them if not all of them are simply done in Jupyter Notebooks and not perfectly organized). However, these Jupyter Notebooks can be cloned and replicated so long as you change the directories to the dataset. I've included all the datasets except the imdb dataset for "Sentiment Analysis With No RNN" and "Sentiment Analysis With No RNN Experimental Grounds" and the Bach Chorales dataset for "Generating Bach Music Project". The imdb dataset is built into TensorFlow's collection of datasets (and thus some of the data loading code for the imdb project can be ignored). THe Bach Chorales dataset can be downloaded from [here](https://homl.info/bach). 
+
+## Difficulties
+
+## What I Learned
+
+## References
+
 ## Author Info
 
 Contact me:
@@ -42,6 +52,7 @@ Gmail: tuvincent0106@gmail.com (preferably) or alckasoc@gmail.com\
 Linkedin (I have not configured my Linkedin profile yet!): [Vincent Tu](https://www.linkedin.com/in/vincent-tu-422b18208/)\
 Discord: [alckasoc#5261](https://discordapp.com/users/251152357063131138/)
 
-## Notice for Usage
+## Credits
 
-These projects aren't designed to be replicated (as most of them if not all of them are simply done in Jupyter Notebooks and not perfectly organized). However, these Jupyter Notebooks can be cloned and replicated so long as you change the directories to the dataset. I've included all the datasets except the imdb dataset for "Sentiment Analysis With No RNN" and "Sentiment Analysis With No RNN Experimental Grounds" and the Bach Chorales dataset for "Generating Bach Music Project". The imdb dataset is built into TensorFlow's collection of datasets (and thus some of the data loading code for the imdb project can be ignored). THe Bach Chorales dataset can be downloaded from [here](https://homl.info/bach). 
+## Thank you!
+
