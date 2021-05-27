@@ -23,12 +23,7 @@ A collection of projects I first took on and experimented with when I began lear
 ## Table of Contents:
 - [Motivation](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#motivation)
 - [Notice for Usage](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#notice-for-usage)
-- [Difficulties](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#difficulties)
-- [What I Learned](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#what-i-learned)
-- [References](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#references)
 - [Author Info](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#author-info)
-- [Credits](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#credits)
-- [Thank you!](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#thank-you)
 
 ## Motivation
 
@@ -36,13 +31,7 @@ These projects are both experimented on (as in copied from [Aurélien Geron](htt
 
 ## Notice for Usage
 
-These projects aren't designed to be replicated (as most of them if not all of them are simply done in Jupyter Notebooks and not perfectly organized). However, these Jupyter Notebooks can be cloned and replicated so long as you change the directories to the dataset. I've included all the datasets except the imdb dataset for "Sentiment Analysis With No RNN" and "Sentiment Analysis With No RNN Experimental Grounds" and the Bach Chorales dataset for "Generating Bach Music Project". The imdb dataset is built into TensorFlow's collection of datasets (and thus some of the data loading code for the imdb project can be ignored). THe Bach Chorales dataset can be downloaded from [here](https://homl.info/bach). 
-
-## Difficulties
-
-## What I Learned
-
-## References
+These projects aren't designed to be replicated (as most of them if not all of them are simply done in Jupyter Notebooks and not perfectly organized). However, these Jupyter Notebooks can be cloned and replicated so long as you change the directories to the dataset. I've included all the datasets except the imdb dataset for "Sentiment Analysis With No RNN" and "Sentiment Analysis With No RNN Experimental Grounds" and the Bach Chorales dataset for "Generating Bach Music Project". The imdb dataset is built into TensorFlow's collection of datasets (and thus some of the data loading code for the imdb project can be ignored). The Bach Chorales dataset can be downloaded from [here](https://homl.info/bach). 
 
 ## Author Info
 
@@ -51,8 +40,3 @@ Contact me:
 Gmail: tuvincent0106@gmail.com (preferably) or alckasoc@gmail.com\
 Linkedin (I have not configured my Linkedin profile yet!): [Vincent Tu](https://www.linkedin.com/in/vincent-tu-422b18208/)\
 Discord: [alckasoc#5261](https://discordapp.com/users/251152357063131138/)
-
-## Credits
-
-## Thank you!
-
