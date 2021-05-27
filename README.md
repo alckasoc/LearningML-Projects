@@ -5,7 +5,7 @@ A collection of projects I first took on and experimented with when I began lear
 [![Python](https://img.shields.io/badge/Python-3.8.3-21455f?logo=python&labelColor=21455f)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.2.4-150458?logo=pandas&labelColor=150458)](https://pandas.pydata.org/pandas-docs/stable/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3.2-085678?labelColor=085678)](https://matplotlib.org/)
-[![Scikit-learn](https://img.shields.io/badge/Sklearn-3.3.2-F7931E?labelColor=F7931E)](https://scikit-learn.org/stable/index.html)
+[![Scikit-learn](https://img.shields.io/badge/Scikit%2Dlearn-3.3.2-F7931E?labelColor=F7931E)](https://scikit-learn.org/stable/index.html)
 [![Gmail 1](https://img.shields.io/badge/Gmail-tuvincent0106%40gmail.com-F3f0f0?logo=gmail&labelColor=F3f0f0)](https://mail.google.com/mail/?view=cm&fs=1&to=tuvincent0106@gmail.com)
 [![Gmail 2](https://img.shields.io/badge/Gmail-alckasoc%40gmail.com-F3f0f0?logo=gmail&labelColor=F3f0f0)](https://mail.google.com/mail/?view=cm&fs=1&to=tuvincent0106@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Vincent%20Tu-0A66C2?logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/vincent-tu-422b18208)
