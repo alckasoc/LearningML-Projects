@@ -11,6 +11,7 @@ A collection of projects I first took on and experimented with when I began lear
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-F3f0f0?logo=tensorflow&labelColor=F3f0f0)](https://www.tensorflow.org/api_docs/)
 [![Keras Tuner](https://img.shields.io/badge/Keras%20Tuner-1.0.2-D00000?logo=keras&labelColor=D00000)](https://keras-team.github.io/keras-tuner/)
 [![PIL](https://img.shields.io/badge/PIL-7.2.0-21455f?labelColor=21455f)](https://pillow.readthedocs.io/en/stable/)
+[![OpenAI-Gym](https://img.shields.io/badge/OpenAI--Gym-0.18.0-0081A5?labelColor=0081A5)](https://gym.openai.com/)
 [![Gmail 1](https://img.shields.io/badge/Gmail-tuvincent0106%40gmail.com-F3f0f0?logo=gmail&labelColor=F3f0f0)](https://mail.google.com/mail/?view=cm&fs=1&to=tuvincent0106@gmail.com)
 [![Gmail 2](https://img.shields.io/badge/Gmail-alckasoc%40gmail.com-F3f0f0?logo=gmail&labelColor=F3f0f0)](https://mail.google.com/mail/?view=cm&fs=1&to=tuvincent0106@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Vincent%20Tu-0A66C2?logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/vincent-tu-422b18208)
