@@ -22,7 +22,7 @@ A collection of projects I first took on and experimented with when I began lear
 
 ## Table of Contents:
 - [Motivation](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#motivation)
-- [Notice for Usage](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#notice)
+- [Notice for Usage](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#notice-for-usage)
 - [Difficulties](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#difficulties)
 - [What I Learned](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#what-i-learned)
 - [References](https://github.com/alckasoc/LearningML-Projects/blob/main/README.md#references)
