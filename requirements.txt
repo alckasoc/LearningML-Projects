@@ -6,3 +6,5 @@ joblib==0.17.0
 tensorflow==2.4.1
 kerastuner==1.0.2
 PIL==7.2.0
+gym==0.18.0
+tf-agents==0.7.1
