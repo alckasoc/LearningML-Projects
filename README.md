@@ -8,6 +8,7 @@ A collection of projects I first took on and experimented with when I began lear
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-3.3.2-319ace?logo=scikit-learn&labelColor=319ace)](https://scikit-learn.org/stable/index.html)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19.5-013243?logo=numpy&labelColor=013243)](https://numpy.org/doc/)
 [![Joblib](https://img.shields.io/badge/Joblib-0.17.0-21455f?labelColor=21455f)](https://joblib.readthedocs.io/en/latest/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-013243?logo=tensorflow&labelColor=013243)](https://www.tensorflow.org/api_docs/)
 [![Gmail 1](https://img.shields.io/badge/Gmail-tuvincent0106%40gmail.com-F3f0f0?logo=gmail&labelColor=F3f0f0)](https://mail.google.com/mail/?view=cm&fs=1&to=tuvincent0106@gmail.com)
 [![Gmail 2](https://img.shields.io/badge/Gmail-alckasoc%40gmail.com-F3f0f0?logo=gmail&labelColor=F3f0f0)](https://mail.google.com/mail/?view=cm&fs=1&to=tuvincent0106@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Vincent%20Tu-0A66C2?logo=linkedin&labelColor=0A66C2)](https://www.linkedin.com/in/vincent-tu-422b18208)
