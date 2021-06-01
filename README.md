@@ -27,7 +27,7 @@ A collection of projects I first took on and experimented with when I began lear
 
 ## Motivation
 
-These projects are both experimented on (as in copied from [Aurélien Geron](https://github.com/ageron/handson-ml2)'s AI Hands-On ML Jupyter Notebook series (the exercises in the chapters), and created from scratch by me. Some other(s) —like the "Style Transfer Playground"— were tutorials available on [TensorFlow's website](https://www.tensorflow.org/tutorials/generative/style_transfer). The ones experimented on, my motivation was to understand what the code was doing and why it worked in the structure it is designed in. The from-scratch projects are aimed at solidifying my understanding in Machine Learning and various topics of ML, namely classification. 
+These projects are both experimented on (as in copied from [Aurélien Geron](https://github.com/ageron/handson-ml2)'s AI Hands-On ML Jupyter Notebook series (the exercises in the chapters)), and created from scratch by me. Some other(s) —like the "Style Transfer Playground"— were tutorials available on [TensorFlow's website](https://www.tensorflow.org/tutorials/generative/style_transfer). The ones experimented on, my motivation was to understand what the code was doing and why it worked in the structure it is designed in. The from-scratch projects are aimed at solidifying my understanding in Machine Learning and various topics of ML, namely classification. 
 
 ## Notice for Usage
 
